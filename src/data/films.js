@@ -47,7 +47,7 @@
       title: "Parasite",
       year: 2019,
       description:
-        "Бідна родина проникає у життя заможних людей з неочікуваними наслідками.",
+        "",
       rating: 8.5,
       poster:
         "https://image.tmdb.org/t/p/original/dwkDeJXXaHVuIhcyCxUdb3YctxY.jpg",
